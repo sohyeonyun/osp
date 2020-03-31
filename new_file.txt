@@ -2,3 +2,4 @@ new_file added
 new_file : 1st modified
 new_file : 2nd modified
 branch_1 : modified
+branch_2 : 1st modified
